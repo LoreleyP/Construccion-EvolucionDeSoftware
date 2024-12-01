@@ -1,0 +1,12 @@
+# Archivos y carpetas innecesarios
+*.pyc
+__pycache__/
+
+# Entornos virtuales
+venv/
+.env
+
+# Configuraciones específicas de IDEs
+.vscode/
+.idea/
+
